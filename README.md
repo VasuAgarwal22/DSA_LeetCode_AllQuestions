@@ -401,3 +401,15 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 - **41.** First Missing Positive
 - **42.** Trapping Rain Water
 - **84.** Largest Rectangle in Histogram
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+<!---LeetCode Topics End-->
