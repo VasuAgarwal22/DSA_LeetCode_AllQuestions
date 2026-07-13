@@ -486,4 +486,8 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
