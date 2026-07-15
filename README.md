@@ -425,6 +425,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0002-add-two-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -490,4 +491,8 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
