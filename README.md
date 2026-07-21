@@ -420,6 +420,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Linked List
 |  |
 | ------- |
@@ -503,6 +504,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
