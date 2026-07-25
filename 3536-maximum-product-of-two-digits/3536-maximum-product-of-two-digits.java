@@ -1,12 +1,17 @@
 class Solution {
     public int maxProduct(int n) {
-        List<Integer> ans = new ArrayList<>();
+        int max1 = 0;
+        int max2 = 0;
         while(n>0){
-            int rem =n%10;
-            ans.add(rem);
+            int temp = n%10;
+            if(temp>max1){
+                max2 = max1;
+                max1 = temp;
+            }else if(temp>max2){
+                max2 = temp;
+            }
             n/=10;
         }
-        Collections.sort(ans);
-        return ans.get(ans.size()-1)*ans.get(ans.size()-2);
+        return max1*max2;
     }
 }
