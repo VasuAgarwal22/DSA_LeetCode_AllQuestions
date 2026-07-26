@@ -421,6 +421,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -492,6 +493,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1331-rank-transform-of-an-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1331-rank-transform-of-an-array) |
 ## Binary Search
@@ -538,4 +540,8 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
