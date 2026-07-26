@@ -443,6 +443,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3945-digit-frequency-score](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
 | ------- |
@@ -499,6 +500,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1331-rank-transform-of-an-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1331-rank-transform-of-an-array) |
+| [3945-digit-frequency-score](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
