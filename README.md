@@ -436,6 +436,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -541,6 +542,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0118-pascals-triangle) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -552,4 +554,8 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
