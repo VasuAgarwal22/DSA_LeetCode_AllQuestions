@@ -407,6 +407,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0200-number-of-islands) |
@@ -478,6 +479,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1260-shift-2d-grid) |
 ## Two Pointers
@@ -539,6 +541,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0118-pascals-triangle) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bit Manipulation
