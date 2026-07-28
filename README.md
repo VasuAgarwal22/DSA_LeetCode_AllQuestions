@@ -427,6 +427,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
 | ------- |
@@ -495,6 +496,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0088-merge-sorted-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1331-rank-transform-of-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -558,4 +560,8 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0062-unique-paths) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
