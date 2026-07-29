@@ -407,6 +407,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0046-permutations](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0088-merge-sorted-array) |
@@ -510,6 +511,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0875-koko-eating-bananas](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0875-koko-eating-bananas) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
@@ -566,4 +568,8 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
