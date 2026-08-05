@@ -463,6 +463,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [1971-find-if-path-exists-in-graph](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -470,6 +471,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [1971-find-if-path-exists-in-graph](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -483,6 +485,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [1971-find-if-path-exists-in-graph](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
