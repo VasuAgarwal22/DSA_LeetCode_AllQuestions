@@ -448,6 +448,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -537,6 +538,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
