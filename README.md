@@ -425,6 +425,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -530,6 +531,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3945-digit-frequency-score](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
