@@ -446,6 +446,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | ------- |
 | [0002-add-two-numbers](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0876-middle-of-the-linked-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -509,6 +510,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0088-merge-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0876-middle-of-the-linked-list) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
