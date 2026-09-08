@@ -413,6 +413,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0063-unique-paths-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0200-number-of-islands) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0739-daily-temperatures) |
@@ -492,6 +493,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -533,6 +535,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1331-rank-transform-of-an-array) |
