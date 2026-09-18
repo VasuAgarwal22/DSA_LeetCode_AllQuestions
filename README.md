@@ -437,6 +437,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0020-valid-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -630,6 +631,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -644,4 +646,8 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0225-implement-stack-using-queues) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
