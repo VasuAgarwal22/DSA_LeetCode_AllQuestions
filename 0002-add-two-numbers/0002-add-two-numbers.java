@@ -10,6 +10,7 @@
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+
         int carry = 0;
         ListNode dummy = new ListNode(-1);
         ListNode curr = dummy;
@@ -29,5 +30,6 @@ class Solution {
         }
         
         return dummy.next;
+        
     }
 }
