@@ -437,6 +437,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0020-valid-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -538,6 +539,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -559,6 +561,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
