@@ -423,6 +423,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0974-subarray-sums-divisible-by-k](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1260-shift-2d-grid](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1331-rank-transform-of-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -545,6 +546,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1331-rank-transform-of-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -557,11 +559,13 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0875-koko-eating-bananas](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0875-koko-eating-bananas) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -569,6 +573,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3903-smallest-stable-index-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3904-smallest-stable-index-ii) |
