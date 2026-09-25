@@ -458,6 +458,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0002-add-two-numbers](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0876-middle-of-the-linked-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0876-middle-of-the-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Math
 |  |
 | ------- |
@@ -602,6 +603,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1260-shift-2d-grid) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
