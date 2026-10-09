@@ -424,6 +424,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0746-min-cost-climbing-stairs](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0875-koko-eating-bananas) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0929-unique-email-addresses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0929-unique-email-addresses) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1260-shift-2d-grid](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1331-rank-transform-of-an-array) |
@@ -449,6 +450,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0020-valid-parentheses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0929-unique-email-addresses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0929-unique-email-addresses) |
 | [1021-remove-outermost-parentheses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -558,6 +560,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0929-unique-email-addresses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0929-unique-email-addresses) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
