@@ -498,6 +498,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -506,6 +507,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -714,4 +716,12 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
