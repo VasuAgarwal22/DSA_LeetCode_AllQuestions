@@ -451,6 +451,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -659,6 +660,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | ------- |
 | [0055-jump-game](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
@@ -670,6 +672,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -689,6 +692,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## String Matching
 |  |
 | ------- |
