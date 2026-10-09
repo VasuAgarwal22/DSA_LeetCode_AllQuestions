@@ -417,6 +417,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0088-merge-sorted-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0213-house-robber-ii) |
@@ -478,6 +479,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0009-palindrome-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -676,6 +678,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
