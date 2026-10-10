@@ -10,28 +10,28 @@
  */
 class Solution {
     public ListNode removeNodes(ListNode head) {
-        ArrayList<Integer> ans = new ArrayList<>();
-        ArrayList<Integer> ans1 = new ArrayList<>();
-        ListNode temp = head;
-        while(temp != null){
-            ans.add(temp.val);
-            temp = temp.next;
-        }
-        int val = ans.get(ans.size()-1);
-        ans1.add(val);
-        for(int i = ans.size()-2;i>=0;i--){
-            if(ans.get(i)>=val){
-                ans1.add(ans.get(i));
-                val = ans.get(i);
+        head = reverse(head);
+        ListNode curr = head;
+        int max = curr.val;
+        while(curr != null && curr.next!=null){
+            if(curr.next.val<max){
+                curr.next = curr.next.next;
+            }else{
+                curr = curr.next;
+                max = curr.val;
             }
         }
-       Collections.reverse(ans1);
-       ListNode dummy = new ListNode(-1);
-       ListNode curr = dummy;
-       for(int i = 0;i<ans1.size();i++){
-        curr.next = new ListNode(ans1.get(i));
-        curr = curr.next;
-       }
-       return dummy.next;
+        return reverse(head);
+    }
+    private ListNode reverse(ListNode head){
+        ListNode prev = null;
+        ListNode curr = head;
+        while(curr!=null){
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+        }
+        return prev;
     }
 }
