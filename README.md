@@ -483,6 +483,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0150-evaluate-reverse-polish-notation](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1137-n-th-tribonacci-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -644,6 +645,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0198-house-robber](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bit Manipulation
@@ -733,4 +735,8 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0112-path-sum) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
