@@ -471,6 +471,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0876-middle-of-the-linked-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0876-middle-of-the-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2487-remove-nodes-from-linked-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -498,6 +499,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | ------- |
 | [0002-add-two-numbers](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0050-powx-n) |
+| [2487-remove-nodes-from-linked-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -685,10 +687,12 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [1021-remove-outermost-parentheses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0739-daily-temperatures) |
+| [2487-remove-nodes-from-linked-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
