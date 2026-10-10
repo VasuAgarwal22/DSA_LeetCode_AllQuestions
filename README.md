@@ -504,6 +504,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -682,6 +683,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0739-daily-temperatures) |
@@ -730,10 +732,12 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0112-path-sum) |
 ## Memoization
 |  |
