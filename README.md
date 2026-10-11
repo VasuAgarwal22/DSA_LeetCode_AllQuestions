@@ -483,6 +483,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0050-powx-n](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0172-factorial-trailing-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1137-n-th-tribonacci-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1137-n-th-tribonacci-number) |
