@@ -471,6 +471,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | ------- |
 | [0002-add-two-numbers](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0876-middle-of-the-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -504,6 +505,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | ------- |
 | [0002-add-two-numbers](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0143-reorder-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Depth-First Search
 |  |
@@ -555,6 +557,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0876-middle-of-the-linked-list) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -692,6 +695,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | ------- |
 | [0020-valid-parentheses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0739-daily-temperatures) |
