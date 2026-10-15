@@ -522,6 +522,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0200-number-of-islands](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0841-keys-and-rooms) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -534,6 +535,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0200-number-of-islands](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0841-keys-and-rooms) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -601,6 +603,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0929-unique-email-addresses) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -737,6 +740,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0706-design-hashmap](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0706-design-hashmap) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [3484-design-spreadsheet](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3484-design-spreadsheet) |
 ## Queue
 |  |
@@ -771,12 +775,14 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0112-path-sum) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0112-path-sum) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Memoization
 |  |
