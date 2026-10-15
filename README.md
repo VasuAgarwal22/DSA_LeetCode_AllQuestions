@@ -432,6 +432,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [1260-shift-2d-grid](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1331-rank-transform-of-an-array) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -731,6 +732,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -744,6 +746,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0225-implement-stack-using-queues](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0706-design-hashmap](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0706-design-hashmap) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [3484-design-spreadsheet](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3484-design-spreadsheet) |
 ## Queue
 |  |
