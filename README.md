@@ -444,6 +444,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3484-design-spreadsheet](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3484-design-spreadsheet) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -467,6 +468,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3484-design-spreadsheet](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3484-design-spreadsheet) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
@@ -561,6 +563,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0200-number-of-islands](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [3484-design-spreadsheet](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3484-design-spreadsheet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -605,6 +608,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3484-design-spreadsheet](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3484-design-spreadsheet) |
 | [3945-digit-frequency-score](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
@@ -731,6 +735,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0706-design-hashmap](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0706-design-hashmap) |
+| [3484-design-spreadsheet](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3484-design-spreadsheet) |
 ## Queue
 |  |
 | ------- |
