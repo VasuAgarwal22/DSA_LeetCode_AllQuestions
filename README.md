@@ -539,6 +539,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0841-keys-and-rooms](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0841-keys-and-rooms) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1609-even-odd-tree](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1609-even-odd-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2685-count-the-number-of-complete-components) |
@@ -783,6 +784,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0112-path-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0112-path-sum) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1609-even-odd-tree](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1609-even-odd-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -790,6 +792,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0112-path-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0112-path-sum) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1609-even-odd-tree](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1609-even-odd-tree) |
 ## Memoization
 |  |
 | ------- |
