@@ -444,6 +444,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1695-maximum-erasure-value](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1695-maximum-erasure-value) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -629,6 +630,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [1331-rank-transform-of-an-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1695-maximum-erasure-value](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1695-maximum-erasure-value) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -660,6 +662,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1695-maximum-erasure-value](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1695-maximum-erasure-value) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
