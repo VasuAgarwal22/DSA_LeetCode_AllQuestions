@@ -431,6 +431,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0739-daily-temperatures](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0929-unique-email-addresses) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -617,6 +618,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0128-longest-consecutive-sequence](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0706-design-hashmap](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0706-design-hashmap) |
+| [0904-fruit-into-baskets](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0929-unique-email-addresses) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -649,6 +651,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0003-longest-substring-without-repeating-characters](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
