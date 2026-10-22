@@ -411,6 +411,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0027-remove-element](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0064-minimum-path-sum) |
@@ -689,6 +690,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0063-unique-paths-ii) |
@@ -723,6 +725,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
 |  |
