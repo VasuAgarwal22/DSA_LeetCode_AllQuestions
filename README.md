@@ -422,6 +422,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0198-house-robber](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0213-house-robber-ii) |
+| [0347-top-k-frequent-elements](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0706-design-hashmap](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0739-daily-temperatures) |
@@ -592,6 +593,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | ------- |
 | [0049-group-anagrams](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -609,6 +611,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0128-longest-consecutive-sequence) |
+| [0347-top-k-frequent-elements](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0706-design-hashmap](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0706-design-hashmap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0929-unique-email-addresses) |
@@ -678,6 +681,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -719,6 +723,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -821,4 +826,16 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0319-bulb-switcher) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
