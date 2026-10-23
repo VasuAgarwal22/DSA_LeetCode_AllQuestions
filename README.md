@@ -457,6 +457,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3484-design-spreadsheet](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3484-design-spreadsheet) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3843-first-element-with-unique-frequency](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3843-first-element-with-unique-frequency) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -729,6 +730,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Backtracking
 |  |
 | ------- |
