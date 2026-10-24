@@ -480,6 +480,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [1684-count-the-number-of-consistent-strings](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2409-count-days-spent-together](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -511,6 +512,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1137-n-th-tribonacci-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3360-stone-removal-game) |
