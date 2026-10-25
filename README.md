@@ -513,6 +513,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1137-n-th-tribonacci-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2396-strictly-palindromic-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -600,6 +601,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0143-reorder-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0143-reorder-list) |
 | [0567-permutation-in-string](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0876-middle-of-the-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2396-strictly-palindromic-number) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -858,6 +860,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0319-bulb-switcher) |
+| [2396-strictly-palindromic-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2396-strictly-palindromic-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
