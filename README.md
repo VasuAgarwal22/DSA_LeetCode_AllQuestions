@@ -453,6 +453,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3484-design-spreadsheet](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3484-design-spreadsheet) |
@@ -514,6 +515,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3360-stone-removal-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3513-number-of-unique-xor-triplets-i) |
