@@ -494,6 +494,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | ------- |
 | [0002-add-two-numbers](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0143-reorder-list) |
 | [0706-design-hashmap](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0876-middle-of-the-linked-list) |
@@ -533,6 +534,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0143-reorder-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2487-remove-nodes-from-linked-list) |
