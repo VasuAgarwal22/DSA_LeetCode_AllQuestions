@@ -754,6 +754,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0052-n-queens-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -889,4 +890,8 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0084-largest-rectangle-in-histogram) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
