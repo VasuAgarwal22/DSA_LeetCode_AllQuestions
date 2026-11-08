@@ -438,6 +438,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0974-subarray-sums-divisible-by-k](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1331-rank-transform-of-an-array) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -547,6 +548,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0547-number-of-provinces](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0841-keys-and-rooms) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1267-count-servers-that-communicate) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -560,6 +562,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0547-number-of-provinces](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0841-keys-and-rooms) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1267-count-servers-that-communicate) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1609-even-odd-tree](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1609-even-odd-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -572,6 +575,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0128-longest-consecutive-sequence](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0547-number-of-provinces) |
+| [1267-count-servers-that-communicate](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2685-count-the-number-of-complete-components) |
@@ -591,6 +595,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0064-minimum-path-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3484-design-spreadsheet](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3484-design-spreadsheet) |
 ## Two Pointers
@@ -718,6 +723,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1267-count-servers-that-communicate](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1267-count-servers-that-communicate) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3843-first-element-with-unique-frequency](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3843-first-element-with-unique-frequency) |
