@@ -419,6 +419,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0084-largest-rectangle-in-histogram](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0198-house-robber) |
@@ -744,6 +745,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0063-unique-paths-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0746-min-cost-climbing-stairs) |
