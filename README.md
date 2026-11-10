@@ -431,6 +431,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0217-contains-duplicate](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [0706-design-hashmap](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0706-design-hashmap) |
@@ -617,6 +618,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0088-merge-sorted-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0143-reorder-list) |
+| [0349-intersection-of-two-arrays](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -630,6 +632,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0088-merge-sorted-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -651,6 +654,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0142-linked-list-cycle-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0567-permutation-in-string) |
 | [0706-design-hashmap](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0904-fruit-into-baskets) |
@@ -676,6 +680,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1385-find-the-distance-value-between-two-arrays) |
