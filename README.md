@@ -410,6 +410,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0004-median-of-two-sorted-arrays](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0055-jump-game) |
@@ -518,6 +519,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0002-add-two-numbers](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0066-plus-one) |
@@ -604,6 +606,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0200-number-of-islands) |
