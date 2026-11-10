@@ -415,6 +415,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0055-jump-game](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0088-merge-sorted-array) |
@@ -518,6 +519,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0009-palindrome-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0172-factorial-trailing-zeroes) |
 | [0319-bulb-switcher](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0319-bulb-switcher) |
