@@ -408,6 +408,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0048-rotate-image) |
@@ -621,6 +622,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
