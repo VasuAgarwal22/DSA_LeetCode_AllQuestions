@@ -422,6 +422,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0200-number-of-islands) |
@@ -761,6 +762,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0136-single-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3644-maximum-k-to-sort-a-permutation) |
