@@ -448,6 +448,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0929-unique-email-addresses](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0929-unique-email-addresses) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1004-max-consecutive-ones-iii) |
+| [1089-duplicate-zeros](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1089-duplicate-zeros) |
 | [1260-shift-2d-grid](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -631,6 +632,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0350-intersection-of-two-arrays-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0876-middle-of-the-linked-list) |
+| [1089-duplicate-zeros](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2396-strictly-palindromic-number](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2396-strictly-palindromic-number) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
