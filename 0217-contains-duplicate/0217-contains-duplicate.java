@@ -7,4 +7,10 @@ class Solution {
         }
         return false;
     }
+    static {
+        Solution jvmWarmup = new Solution();
+        for (int i = 0; i < 200; i++) {
+            jvmWarmup.containsDuplicate(new int[0]);
+        }
+    }
 }
