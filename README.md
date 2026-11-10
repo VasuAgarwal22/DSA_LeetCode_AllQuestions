@@ -431,6 +431,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0213-house-robber-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -621,6 +622,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0088-merge-sorted-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0143-reorder-list) |
+| [0283-move-zeroes](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0567-permutation-in-string) |
