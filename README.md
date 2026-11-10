@@ -465,6 +465,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3843-first-element-with-unique-frequency](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3843-first-element-with-unique-frequency) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3904-smallest-stable-index-ii) |
 ## String
@@ -590,6 +591,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3310-remove-methods-from-project) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
 | ------- |
@@ -600,6 +602,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [1267-count-servers-that-communicate](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3484-design-spreadsheet](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3484-design-spreadsheet) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
