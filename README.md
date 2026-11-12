@@ -468,6 +468,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/3471-find-the-largest-almost-missing-integer) |
