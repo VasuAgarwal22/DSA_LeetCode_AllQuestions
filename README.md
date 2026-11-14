@@ -562,6 +562,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0547-number-of-provinces) |
@@ -576,6 +577,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0547-number-of-provinces) |
@@ -886,6 +888,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0112-path-sum) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -894,6 +897,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0112-path-sum) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
