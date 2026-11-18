@@ -438,6 +438,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0349-intersection-of-two-arrays](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [0706-design-hashmap](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0706-design-hashmap) |
@@ -677,6 +678,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | [0347-top-k-frequent-elements](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0525-contiguous-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0567-permutation-in-string) |
 | [0706-design-hashmap](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0904-fruit-into-baskets) |
@@ -731,6 +733,7 @@ From *21 May 2026* to *21 July 2026*, I will be consistently posting solutions f
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VasuAgarwal22/DSA_LeetCode_AllQuestions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
